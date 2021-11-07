@@ -1,4 +1,4 @@
-﻿## team21
+﻿## CSC309 COURSE PROJECT
 Our application is called rate your courses.
 Deployed app URL: https://rateyourcourses-team21.herokuapp.com/
 
